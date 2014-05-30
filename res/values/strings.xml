@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">フォトパズル</string>
+    <string name="intent_param_name">JPEG_IMAGE</string>
+    <string name="dialog_title">パズルクリア</string>
+    <string name="dialog_message">おめでとう！</string>
+    <string name="menu_preference">設定</string>
+    <string name="pref_size_title">サイズ</string>
+    <string name="pref_size_summary">パズルの大きさ</string>
+    <string name="pref_size_dialog_title">サイズの選択</string>
+    <string name="pref_theme_title">テーマ</string>
+    <string name="pref_theme_summary">額縁のタイプ</string>
+    <string name="pref_theme_dialog_title">テーマの選択</string>
+    
+    <string name="pref_theme_key">theme_key</string>
+    <string name="pref_size_key">size_key</string>
+    <string name="pref_size_default">3</string>
+    <string name="pref_theme_default">@string/pref_theme_1</string>
+    <string name="pref_theme_1">プラスチック</string><string name="pref_theme_2">メタル</string>
+    <string name="pref_theme_3">白ふち</string>
+</resources>

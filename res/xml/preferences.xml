@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	<ListPreference android:title="@string/pref_size_title"
+		android:summary="@string/pref_size_summary" android:dialogTitle="@string/pref_size_dialog_title"
+		android:entries="@array/pref_size_list" android:entryValues="@array/pref_size_list"
+		android:key="@string/pref_size_key" android:defaultValue="@string/pref_size_default" />
+	<ListPreference android:title="@string/pref_theme_title"
+		android:summary="@string/pref_theme_summary" android:dialogTitle="@string/pref_theme_dialog_title"
+		android:entries="@array/pref_theme_list" android:entryValues="@array/pref_theme_list"
+		android:key="@string/pref_theme_key" android:defaultValue="@string/pref_theme_default" />
+</PreferenceScreen>

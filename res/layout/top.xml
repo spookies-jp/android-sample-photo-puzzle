@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent" android:onClick="startGame" android:background="@drawable/bg" android:gravity="bottom|right">
+    <ImageView android:layout_height="wrap_content" android:id="@+id/imageView1" android:layout_width="wrap_content" android:src="@drawable/top_button_a" android:layout_marginRight="18dp" android:layout_marginBottom="18dp"></ImageView>
+</LinearLayout>
